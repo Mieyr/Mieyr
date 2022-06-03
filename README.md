@@ -1,1 +1,1 @@
-idk
+Languages: Python, C/C++, SQL
